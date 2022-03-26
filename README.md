@@ -9,5 +9,6 @@ Currently trying my best
 
 ### Tutorial: 
 - [Create a React App from Scratch in 2021](https://javascript.plainenglish.io/create-a-react-app-from-scratch-in-2021-8e9948602e9c)
+- [Create React App](https://create-react-app.dev/)
 
 ---
