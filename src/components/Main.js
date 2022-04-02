@@ -1,13 +1,15 @@
 // import logo from './akash_banerjee-unsplash.jpg';
 import '../App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import logo from '../assets/rusty.png'
 
 function Main() {
   return (
     <div className="App">
       <header>
-        <h1>Contents Here</h1>
+        <h1>Hello Stranger</h1>
       </header>
+      <img className='App-logo-img' alt='Smiling Rusty' src={logo}></img>
     </div>
   );
 }
