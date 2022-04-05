@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.cca68f3b.css",
+    "main.css": "/static/css/main.9bc048aa.css",
     "main.js": "/static/js/main.b47210da.js",
     "static/media/akash_banerjee-unsplash.jpg": "/static/media/akash_banerjee-unsplash.bdf0a90cfa2f6b4e40af.jpg",
     "index.html": "/index.html",
-    "main.cca68f3b.css.map": "/static/css/main.cca68f3b.css.map",
+    "main.9bc048aa.css.map": "/static/css/main.9bc048aa.css.map",
     "main.b47210da.js.map": "/static/js/main.b47210da.js.map"
   },
   "entrypoints": [
-    "static/css/main.cca68f3b.css",
+    "static/css/main.9bc048aa.css",
     "static/js/main.b47210da.js"
   ]
 }
