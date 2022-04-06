@@ -7,6 +7,6 @@ Currently struggling my best
 ## This Branch is Here to Stay
 Initially made a mistake of deploying changes to a working branch and lost source files
 - This branch is soley to collect them cookie crumbs
-- Changes will be deployed directly to master (gh-pages) branch
+- Changes will be deployed directly to master (gh-pages) branch once tested
 
 ---
