@@ -1,8 +1,8 @@
 // import logo from './akash_banerjee-unsplash.jpg';
-import "./App.css";
-import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
-import Landing from "./menu/Landing";
-import Main from "./menu/Main";
+import './App.css';
+import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
+import Landing from './menu/Landing';
+import Main from './menu/Main';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
           <Route exact path='/'>
             <Landing />
           </Route>
-          <Route path='*/main'>
+          <Route path='/main'>
             <Main />
           </Route>
         </Switch>
